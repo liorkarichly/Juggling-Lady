@@ -1,5 +1,5 @@
 # Juggling-Lady
-Final projects in computer vision, language in python in enviroment Jupyter notebook
+Final projects in computer vision, language in python in enviroment Jupyter notebook, in this project they manipulated a video of a woman doing juggling, we used the OpenCV library.
 
 ## Source Video:
 ### The video on which we had to perform the manipulations.
