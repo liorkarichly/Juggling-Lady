@@ -8,4 +8,4 @@ https://github.com/liorkarichly/Juggling-Lady/blob/master/P4_juggling.mov
 https://github.com/liorkarichly/Juggling-Lady/blob/master/Juggling%20Lady.ipynb 
 
 ## Soluation of project:
-https://github.com/liorkarichly/Juggling-Lady/blob/master/P4_juggling.mov
+https://github.com/liorkarichly/Juggling-Lady/blob/master/Final_Juggling_Lady.mov
