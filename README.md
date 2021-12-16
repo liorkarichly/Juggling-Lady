@@ -2,11 +2,11 @@
 Final projects in computer vision, language in python in enviroment Jupyter notebook
 
 ## Source Video:
-The video on which we had to perform the manipulations
+### The video on which we had to perform the manipulations.
 https://github.com/liorkarichly/Juggling-Lady/blob/master/P4_juggling.mov
 
 ## The notebook : 
-The notebook with all the code and comments, photos, and a detail of each step
+### The notebook with all the code and comments, photos, and a detail of each step.
 https://github.com/liorkarichly/Juggling-Lady/blob/master/Juggling%20Lady.ipynb 
 
 ## Soluation of project:
